@@ -28,3 +28,4 @@ Welcome to my collection of study resources and guides! This page will be update
   [🔗 Quizlet Profile](https://quizlet.com/user/ProbieWanKenobi/sets)  
   *Note: These sets are just the questions from the above study guides as flashcards.*
 
+![Page Views](https://hits.sh/dr-nozzle/FDNY-Study-Guides.svg?style=flat-square&label=views&color=orange)
