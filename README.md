@@ -26,7 +26,7 @@ Welcome to my collection of study resources and guides! This page will be update
   [🔗 Quizlet Profile](https://quizlet.com/user/Dr-PRD/sets)
   *Note: Experimental zone
 
-- **LISA9 CURRNT QUIZ**  
+- **LISA9 CURRENT QUIZ**  
   [🔗 Current Quizlet](https://quizlet.com/1064344569/lisa9-flash-cards/)
   *Note: Experimental zone
 
