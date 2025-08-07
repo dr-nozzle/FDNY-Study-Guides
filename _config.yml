@@ -1,3 +1,6 @@
 title: FDNY Proby Study Guide Hub
 description: A collection of unofficial study resources.
-theme: dark-theme-jekyll
+baseurl: "" 
+theme: minima
+plugins:
+  - jekyll-feed
