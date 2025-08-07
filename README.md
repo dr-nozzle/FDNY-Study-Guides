@@ -27,5 +27,18 @@ Welcome to my collection of study resources and guides! This page will be update
 - **ProbieWanKenobi**  
   [🔗 Quizlet Profile](https://quizlet.com/user/ProbieWanKenobi/sets)  
   *Note: These sets are just the questions from the above study guides as flashcards.*
+  
+- **Dr-PRD**  
+  [🔗 Quizlet Profile](https://quizlet.com/user/Dr-PRD/sets)  
+ * Note: Experimental zone*
+
+https://quizlet.com/1064344569/lisa9-flash-cards/?i=6obvr0&x=1jqt
+- **LISA9 - CURRNT QUIZ **
+  [🔗 Quizlet Profile](https://quizlet.com/1064344569/lisa9-flash-cards/)  
+ * Note: Current Quiz Experimental *
+  
+
+
+
 
 ![Page Views](https://hits.sh/dr-nozzle.github.io/FDNY-Study-Guides.svg)
