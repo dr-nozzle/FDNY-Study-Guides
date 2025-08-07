@@ -5,12 +5,6 @@ Welcome to my collection of study resources and guides! This page will be update
 
 ⚠️ Do not rely solely on the materials here. **Read the official manuals and take your own notes.**
 
-
-## 📚 Table of Contents
-- [📄 Study Guides](#study-guides)
-- [🧠 Quizlets](#quizlets)
-
-
 ## 📄 Study Guides
 
 - **Study Guides**  
