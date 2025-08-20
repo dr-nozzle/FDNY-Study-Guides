@@ -32,3 +32,9 @@ Welcome to my collection of study resources and guides! This page will be update
 
 
 ![Page Views](https://hits.sh/dr-nozzle.github.io/FDNY-Study-Guides.svg)
+
+
+##  Runs and Workers 2024
+
+- **Runs and Workers 2024 Map**
+  [GIS Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=f87ba8dda07646e5bbe9170fa66070bc&center=-73.938922%2C40.731277&level=11)
