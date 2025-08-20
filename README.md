@@ -24,11 +24,9 @@ Welcome to my collection of study resources and guides! This page will be update
   
 - **Dr-PRD**  
   [Quizlet Profile](https://quizlet.com/user/Dr-PRD/sets)
-  *Note: Experimental zone
 
 - **LISA 7-10**  
-  [Current Quizlet](https://quizlet.com/1066906529/lisa-7-10-flash-cards/?i=6obvr0&x=1jqt)
-  *Note: Experimental zone
+  [LISA 7-10 Quizlet](https://quizlet.com/1066906529/lisa-7-10-flash-cards/?i=6obvr0&x=1jqt)
 
 
 ##  Runs and Workers 2024
