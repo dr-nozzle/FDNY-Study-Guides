@@ -25,10 +25,13 @@ Welcome to my collection of study resources and guides! This page will be update
 - **Dr-PRD**  
   [Quizlet Profile](https://quizlet.com/user/Dr-PRD/sets)
 
-- **LISA 7-10**  
-  [LISA 7-10 Quizlet](https://quizlet.com/1066906529/lisa-7-10-flash-cards/?i=6obvr0&x=1jqt)
+- **Quiz 1-6**  
+  [Quiz 1-6 Quizlet](https://quizlet.com/1067795142/quiz-1-6-flash-cards/?i=6obvr0&x=1jqt)
 
-## Master List
+- **Quiz 7-10**  
+  [Quiz 7-10 Quizlet](https://quizlet.com/1066906529/quiz-7-10-flash-cards/?i=6obvr0&x=1jqt)
+
+## Master List 
 - **Master list**
   [link](https://docs.google.com/spreadsheets/d/1soK8JYdsaYyLJ7ANSUX7J71X6k1QErrZGS9keB799PU/edit?usp=sharing)
 
